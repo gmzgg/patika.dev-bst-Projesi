@@ -60,7 +60,7 @@ Sıradaki 0 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu 
    / \
   0   3
  
- Sıradaki 9 değeri 7 den büyük olduğu için sağına, 8'den büyük olduğu için sağına yazılır.
+Sıradaki 9 değeri 7 den büyük olduğu için sağına, 8'den büyük olduğu için sağına yazılır.
  
          7
        / \
@@ -70,7 +70,7 @@ Sıradaki 0 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu 
    / \
   0   3
   
-  Sıradaki 4 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den büyük olduğu için sağına yazılır.
+Sıradaki 4 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den büyük olduğu için sağına yazılır.
   
          7
         / \
