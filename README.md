@@ -62,7 +62,7 @@ Sıradaki 0 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu 
  
 Sıradaki 9 değeri 7 den büyük olduğu için sağına, 8'den büyük olduğu için sağına yazılır.
  
-         7
+        7
        / \
       5   8
      / \   \
@@ -84,12 +84,12 @@ Sıradaki 4 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu 
 
 Son sıradaki 2 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den küçük olduğu için soluna yazılır.
 
-         7
-        / \
-       5   8
-      / \   \
-     1   6   9
-    / \
-   0   3
-      / \
-     2   4
+               7
+              / \
+             5   8
+            / \   \
+           1   6   9
+          / \
+         0   3
+            / \
+           2   4
