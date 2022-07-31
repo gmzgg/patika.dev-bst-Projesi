@@ -24,64 +24,64 @@ Sıradaki 1 değeri, 7'den küçük olduğu için 7'nin soluna, 5 den de küçü
     
 Sıradaki 8 değeri, 7'den büyük olduğu için 7'nin sağına eklenir.  
        
-       7
-      / \
-     5   8
-    /
-   1   
+             7
+            / \
+           5   8
+          /
+         1     
   
 Sıradaki 3 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına yazılır.
    
-       7
-      / \
-     5   8
-    /
-   1
-    \
-     3
+             7
+            / \
+           5   8
+          /
+         1
+          \
+           3
      
 Sıradaki 6 değeri 7 den küçük olduğu için soluna, 5'den büyük olduğu için sağına yazılır.
-   
-        7
-       / \
-      5   8
-     / \
-    1   6
-     \
-      3
+              
+              7
+             / \
+            5   8
+           / \
+          1   6
+           \
+            3
       
 Sıradaki 0 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den küçük olduğu için soluna yazılır.
       
-        7
-       / \
-      5   8
-     / \
-    1   6
-   / \
-  0   3
+              7
+             / \
+            5   8
+           / \
+          1   6
+         / \
+        0   3
  
 Sıradaki 9 değeri 7 den büyük olduğu için sağına, 8'den büyük olduğu için sağına yazılır.
  
-        7
-       / \
-      5   8
-     / \   \
-    1   6   9
-   / \
-  0   3
+              7
+             / \
+            5   8
+           / \   \
+          1   6   9
+         / \
+        0   3
   
 Sıradaki 4 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den büyük olduğu için sağına yazılır.
   
-         7
-        / \
-       5   8
-      / \   \
-     1   6   9
-    / \
-   0   3
-        \
-         4
-
+               7
+              / \
+             5   8
+            / \   \
+           1   6   9
+          / \
+         0   3
+              \
+               4
+               
 Son sıradaki 2 değeri 7 den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den küçük olduğu için soluna yazılır.
 
                7
